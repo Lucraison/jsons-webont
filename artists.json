@@ -1,0 +1,211 @@
+[
+    {
+        "id": "ART-001",
+        "name": "Radiohead",
+        "description": "British rock group that was arguably the most accomplished art-rock band of the early 21st century",
+        "age": 38,
+        "isActive": true,
+        "birthDate": "1986-01-01",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Radiohead.jpg/640px-Radiohead.jpg",
+        "genre": "Alternative Rock/Artrock",
+        "instruments": ["Vocals", "Guitar", "Piano"],
+        "recordLabel" : {
+            "id": "LABEL-101",
+            "name": "Parlophone",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Parlophone_logo.svg/200px-Parlophone_logo.svg.png",
+            "foundedYear": "1896",
+            "founder": "Carl Lindström",
+            "headquarters": "Cannon Place, London"
+        }
+    },
+    {
+        "id": "ART-002",
+        "name": "Deftones",
+        "description": "American alternative metal band known for their unique blend of heavy riffs and ethereal melodies",
+        "age": 34,
+        "isActive": true,
+        "birthDate": "1998-01-01",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWJkMDVjY2QtOWVkZS00NjAyLTgzMjEtYWRkMTY2YTIxNThiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+        "genre": "Alternative Metal",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-102",
+            "name": "Warner Records",
+            "labelLogoUrl": "https://variety.com/wp-content/uploads/2016/02/warner-records.jpg",
+            "foundedYear": "1958",
+            "founder": "Jack Warner",
+            "headquarters": "Los Angeles, California"
+        }
+    },
+    {
+        "id": "ART-003",
+        "name": "Arctic Monkeys",
+        "description": "English indie rock band celebrated for their sharp lyrics and catchy hooks",
+        "age": 21,
+        "isActive": true,
+        "birthDate": "2003-01-01",
+        "imageUrl": "https://dynamicmedia.livenationinternational.com/f/h/n/2541a31f-0ef5-4263-8223-96cb5553b293.jpg?auto=webp&width=1507.2",
+        "genre": "Indie Rock",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-103",
+            "name": "Domino Recording Company",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Domino_Records_logo.png",
+            "foundedYear": "1993",
+            "founder": "Laurence Bell",
+            "headquarters": "London, England"
+        }
+    },
+    {
+        "id": "ART-004",
+        "name": "Joji",
+        "description": "Japanese-Australian singer-songwriter known for his emotionally raw music and versatile style",
+        "age": 28,
+        "isActive": true,
+        "birthDate": "1993-09-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Joji_Performing_Live_in_2018_%28cropped%29.png",
+        "genre": "Alternative R&B/Lo-fi",
+        "instruments": ["Vocals", "Keyboard", "Guitar"],
+        "recordLabel": {
+            "id": "LABEL-104",
+            "name": "88rising",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/88rising_logo.svg/1200px-88rising_logo.svg.png",
+            "foundedYear": "2015",
+            "founder": "Sean Miyashiro",
+            "headquarters": "New York City, New York"
+        }
+    },
+    {
+        "id": "ART-005",
+        "name": "The Neighbourhood",
+        "description": "American alternative rock band known for their moody atmospheres and introspective lyrics",
+        "age": 10,
+        "isActive": true,
+        "birthDate": "2011-01-01",
+        "imageUrl": "https://porterpress.org/wp-content/uploads/2023/02/thye-neighbourhood-900x600.jpg",
+        "genre": "Alternative Rock",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-105",
+            "name": "Columbia Records",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Columbia_Records_Colored_Logo.svg/1200px-Columbia_Records_Colored_Logo.svg.png",
+            "foundedYear": "1888",
+            "founder": "Edward Easton",
+            "headquarters": "New York City, New York"
+        }
+    },
+    {
+        "id": "ART-006",
+        "name": "Wallows",
+        "description": "American indie rock band noted for their infectious melodies and youthful energy",
+        "age": 7,
+        "isActive": true,
+        "birthDate": "2014-01-01",
+        "imageUrl": "https://boysbygirls.co.uk/uploads/imager/cc2bbf40a27afe11ddf77d1706b64b5e/202724/Wallows_2_e8e1ce839bd011c68a329d921ab7814c.jpg",
+        "genre": "Indie Rock/Alternative",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-106",
+            "name": "Atlantic Records",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atlantic_Records_box_logo_%28colored%29.svg/800px-Atlantic_Records_box_logo_%28colored%29.svg.png",
+            "foundedYear": "1947",
+            "founder": "Ahmet Ertegun, Herb Abramson",
+            "headquarters": "New York City, New York"
+        }
+    },
+    {
+        "id": "ART-007",
+        "name": "Coldplay",
+        "description": "British rock band known for their anthemic songs and emotionally charged performances",
+        "age": 27,
+        "isActive": true,
+        "birthDate": "1996-01-01",
+        "imageUrl": "https://dynamicmedia.livenationinternational.com/p/t/e/9b86afab-433d-44a3-882d-35fc894d4ee4.jpg?auto=webp&width=1507.2",
+        "genre": "Alternative Rock/Pop Rock",
+        "instruments": ["Vocals", "Guitar", "Piano", "Keyboards"],
+        "recordLabel": {
+            "id": "LABEL-107",
+            "name": "Parlophone",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Parlophone_logo.svg/200px-Parlophone_logo.svg.png",
+            "foundedYear": "1896",
+            "founder": "Carl Lindström",
+            "headquarters": "Cannon Place, London"
+        }
+    },
+    {
+        "id": "ART-008",
+        "name": "Mac DeMarco",
+        "description": "Canadian singer-songwriter known for his laid-back style and quirky personality",
+        "age": 32,
+        "isActive": true,
+        "birthDate": "1990-04-30",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mac_DeMarco_2019_%2848210650642%29_%28cropped%29.jpg",
+        "genre": "Indie Rock/Lo-fi",
+        "instruments": ["Vocals", "Guitar", "Keyboard", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-108",
+            "name": "Captured Tracks",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Capturedtracks.jpg",
+            "foundedYear": "2008",
+            "founder": "Mike Sniper",
+            "headquarters": "Brooklyn, New York"
+        }
+    },
+    {
+        "id": "ART-009",
+        "name": "Nirvana",
+        "description": "American rock band credited with popularizing grunge music in the early 1990s",
+        "age": 35,
+        "isActive": false,
+        "birthDate": "1987-01-01",
+        "imageUrl": "https://static.wikia.nocookie.net/nirvana/images/6/6e/Nirvana.jpg/revision/latest?cb=20191009094152",
+        "genre": "Grunge/Alternative Rock",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums"],
+        "recordLabel": {
+            "id": "LABEL-109",
+            "name": "DGC Records",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/DGC_Records_logo%2C_1990.png",
+            "foundedYear": "1990",
+            "founder": "David Geffen",
+            "headquarters": "Santa Monica, California"
+        }
+    },
+    {
+        "id": "ART-010",
+        "name": "Tame Impala",
+        "description": "Australian psychedelic music project led by multi-instrumentalist Kevin Parker",
+        "age": 14,
+        "isActive": true,
+        "birthDate": "2010-01-01",
+        "imageUrl": "https://i1.sndcdn.com/avatars-yHA8nds2mqg4uYtr-kyxTzw-t500x500.jpg",
+        "genre": "Psychedelic Rock/Indie Pop",
+        "instruments": ["Vocals", "Guitar", "Bass", "Drums", "Synthesizer"],
+        "recordLabel": {
+            "id": "LABEL-110",
+            "name": "Modular Recordings",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Modular_Recordings.png",
+            "foundedYear": "1998",
+            "founder": "Steve Pavlovic",
+            "headquarters": "Los Angeles, California"
+        }
+    },
+    {
+        "id": "ART-011",
+        "name": "Lana Del Rey",
+        "description": "American singer-songwriter known for her cinematic sound and vintage aesthetic",
+        "age": 36,
+        "isActive": true,
+        "birthDate": "1985-06-21",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lana_Del_Rey_%40_Grammy_Museum_10_13_2019_%2849311023203%29.jpg/640px-Lana_Del_Rey_%40_Grammy_Museum_10_13_2019_%2849311023203%29.jpg",
+        "genre": "Indie Pop/Dream Pop",
+        "instruments": ["Vocals", "Keyboard", "Guitar"],
+        "recordLabel": {
+            "id": "LABEL-111",
+            "name": "Interscope Records",
+            "labelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Interscope_Records.svg",
+            "foundedYear": "1990",
+            "founder": "Jimmy Iovine, Ted Field",
+            "headquarters": "Santa Monica, California"
+        }
+    }                
+]
